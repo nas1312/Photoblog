@@ -1,14 +1,14 @@
 img{
     width: 30%;
-    margin:calc(10%/6);
+    margin:calc(12%/5);
 }
 
 h1{
     text-transform: uppercase;
     color:#a9d6e5;
-    margin-left:calc(10%/6);
+    margin-left:calc(12%/5);
     font-family: 'Raleway', sans-serif;
-    font-size: 0.9em;
+    font-size: 1.1em;
     width:30%;
     border-bottom: 4px solid #4a4e69;
     padding:1.2em 0;
